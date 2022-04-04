@@ -28,3 +28,27 @@
 [submodule "ares"]
 	path = ares
 	url = https://github.com/aresprotocols/ares.git
+[submodule "composable"]
+	path = composable
+	url = https://github.com/ComposableFi/composable.git
+[submodule "centrifuge-chain"]
+	path = centrifuge-chain
+	url = https://github.com/centrifuge/centrifuge-chain.git
+[submodule "interbtc"]
+	path = interbtc
+	url = https://github.com/interlay/interbtc.git
+[submodule "chain"]
+	path = chain
+	url = https://github.com/NodleCode/chain.git
+[submodule "HydraDX-node"]
+	path = HydraDX-node
+	url = https://github.com/galacticcouncil/HydraDX-node.git
+[submodule "phala-blockchain"]
+	path = phala-blockchain
+	url = https://github.com/Phala-Network/phala-blockchain.git
+[submodule "darwinia"]
+	path = darwinia
+	url = https://github.com/darwinia-network/darwinia.git
+[submodule "crust"]
+	path = crust
+	url = https://github.com/crustio/crust.git
