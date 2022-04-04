@@ -1,0 +1,30 @@
+[submodule "moonbeam"]
+	path = moonbeam
+	url = https://github.com/PureStake/moonbeam.git
+[submodule "Acala"]
+	path = Acala
+	url = https://github.com/AcalaNetwork/Acala.git
+[submodule "parallel"]
+	path = parallel
+	url = https://github.com/parallel-finance/parallel.git
+[submodule "Astar"]
+	path = Astar
+	url = https://github.com/AstarNetwork/Astar.git
+[submodule "astar-frame"]
+	path = astar-frame
+	url = https://github.com/AstarNetwork/astar-frame.git
+[submodule "clover"]
+	path = clover
+	url = https://github.com/clover-network/clover.git
+[submodule "Manta"]
+	path = Manta
+	url = https://github.com/Manta-Network/Manta.git
+[submodule "litentry-parachain"]
+	path = litentry-parachain
+	url = https://github.com/litentry/litentry-parachain.git
+[submodule "subdao-node"]
+	path = subdao-node
+	url = https://github.com/SubDAO-Network/subdao-node.git
+[submodule "ares"]
+	path = ares
+	url = https://github.com/aresprotocols/ares.git
